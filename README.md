@@ -1,6 +1,6 @@
 # Leon
-<!DOCTYPE html>
 <html>
+	日狗小分队主页
 	<head>
 		<meta charset="UTF-8">
 		<title>日狗小分队官网</title>
