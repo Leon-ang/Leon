@@ -50,7 +50,7 @@
 				<td><button id="tj2" type="submit"  value="asd">删除</button></td>
 			</tr>
 			<tr>
-				<td>老蒋</td>
+				<td>老许</td>
 				<td>女</td>
 				<td>二十</td>
 				<td><button id="tj3" type="submit"  value="asd">删除</button></td>
