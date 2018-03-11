@@ -1,4 +1,3 @@
-# Leon
 <!DOCTYPE html>
 <html>
 	<head>
